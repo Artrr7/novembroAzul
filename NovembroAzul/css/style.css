@@ -1,0 +1,43 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #88caff;
+}
+
+#cta .title span {
+    color: #004080;
+}
+
+.section-1 {
+    background-color: #245c9b;
+    color: white;
+}
+
+.section-2 {
+    background-color: #4491e9;
+    color: white;
+}
+
+.section-3 {
+    background-color: #79a5d8;
+    color: white;
+}
+
+.section-4 {
+    background-color: #4d96e9;
+    color: white;
+}
+
+.section-5 {
+    background-color: #2068bb;
+    color: white;
+}
+
+.section-6 {
+    background-color: #24548a;
+    color: white;
+}
+
+footer {
+    background-color: #001a33;
+    color: white;
+}
